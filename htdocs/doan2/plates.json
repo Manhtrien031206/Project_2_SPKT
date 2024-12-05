@@ -1,0 +1,12 @@
+[
+    {
+        "license": "29A-12345",
+        "status": "Chưa vào",
+        "expiration_time": "2024-12-31"
+    },
+    {
+        "license": "30A-67890",
+        "status": "Đã vào",
+        "expiration_time": "2024-11-15"
+    }
+]
